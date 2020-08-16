@@ -1,0 +1,6 @@
+module Pods_loginGitRepo_loginGitRepoTests {
+  umbrella header "Pods-loginGitRepo-loginGitRepoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
